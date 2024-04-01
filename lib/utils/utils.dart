@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 /// util constants
-// const kBaseUrl = "https://quick-eats.free.beeceptor.com";
+const kBaseUrl = "https://quick-eats.free.beeceptor.com";
 // const kBaseUrl = "https://quick-eats-new.free.beeceptor.com";
-const kBaseUrl = "https://quick-eats-new-new.free.beeceptor.com";
+// const kBaseUrl = "https://quick-eats-new-new.free.beeceptor.com";
 kScreenX(context) => MediaQuery.of(context).size.width;
 kScreenY(context) => MediaQuery.of(context).size.height;
 kScreenSize(context) => MediaQuery.of(context).size;
